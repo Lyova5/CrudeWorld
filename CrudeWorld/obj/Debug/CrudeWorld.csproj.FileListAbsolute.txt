@@ -1,0 +1,5 @@
+X:\hg\CrudeWorld\CrudeWorld\bin\Debug\CrudeWorld.dll
+X:\hg\CrudeWorld\CrudeWorld\bin\Debug\CrudeWorld.pdb
+X:\hg\CrudeWorld\CrudeWorld\obj\Debug\CrudeWorld.csprojResolveAssemblyReference.cache
+X:\hg\CrudeWorld\CrudeWorld\obj\Debug\CrudeWorld.dll
+X:\hg\CrudeWorld\CrudeWorld\obj\Debug\CrudeWorld.pdb

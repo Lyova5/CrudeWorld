@@ -1,0 +1,9 @@
+X:\hg\CrudeWorld\CrudeWorldTests\bin\Debug\CrudeWorldTests.dll
+X:\hg\CrudeWorld\CrudeWorldTests\bin\Debug\CrudeWorldTests.pdb
+X:\hg\CrudeWorld\CrudeWorldTests\bin\Debug\CrudeWorld.dll
+X:\hg\CrudeWorld\CrudeWorldTests\bin\Debug\nunit.framework.dll
+X:\hg\CrudeWorld\CrudeWorldTests\bin\Debug\CrudeWorld.pdb
+X:\hg\CrudeWorld\CrudeWorldTests\bin\Debug\nunit.framework.xml
+X:\hg\CrudeWorld\CrudeWorldTests\obj\Debug\CrudeWorldTests.csprojResolveAssemblyReference.cache
+X:\hg\CrudeWorld\CrudeWorldTests\obj\Debug\CrudeWorldTests.dll
+X:\hg\CrudeWorld\CrudeWorldTests\obj\Debug\CrudeWorldTests.pdb
